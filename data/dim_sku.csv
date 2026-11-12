@@ -1,0 +1,61 @@
+sku_id,sku_name,category,abc_class,unit_cost,unit_price,moq
+SKU-1001,Kitchen Appliances Item 1,Kitchen Appliances,A,1935.61,3436.4,50
+SKU-1002,Home Comfort Item 2,Home Comfort,A,3596.73,5749.1,20
+SKU-1003,Personal Care Item 3,Personal Care,A,1039.58,1381.65,100
+SKU-1004,Water Purification Item 4,Water Purification,A,1768.21,2424.98,50
+SKU-1005,Cookware Item 5,Cookware,A,484.4,864.63,100
+SKU-1006,Kitchen Appliances Item 6,Kitchen Appliances,A,4248.07,5524.15,100
+SKU-1007,Home Comfort Item 7,Home Comfort,A,1151.96,1672.79,20
+SKU-1008,Personal Care Item 8,Personal Care,A,428.97,562.61,50
+SKU-1009,Water Purification Item 9,Water Purification,A,2908.6,3984.05,100
+SKU-1010,Cookware Item 10,Cookware,A,4392.4,6221.33,20
+SKU-1011,Kitchen Appliances Item 11,Kitchen Appliances,A,3619.22,5066.32,50
+SKU-1012,Home Comfort Item 12,Home Comfort,A,4431.25,6794.8,10
+SKU-1013,Personal Care Item 13,Personal Care,A,2890.93,4004.7,50
+SKU-1014,Water Purification Item 14,Water Purification,A,454.39,804.77,20
+SKU-1015,Cookware Item 15,Cookware,A,3714.43,5394.49,10
+SKU-1016,Kitchen Appliances Item 16,Kitchen Appliances,B,1346.66,1912.95,100
+SKU-1017,Home Comfort Item 17,Home Comfort,B,900.36,1393.39,50
+SKU-1018,Personal Care Item 18,Personal Care,B,1110.8,1661.24,20
+SKU-1019,Water Purification Item 19,Water Purification,B,3116.34,4536.94,20
+SKU-1020,Cookware Item 20,Cookware,B,1252.56,1983.87,10
+SKU-1021,Kitchen Appliances Item 21,Kitchen Appliances,B,4375.3,7383.61,20
+SKU-1022,Home Comfort Item 22,Home Comfort,B,2020.12,3562.14,50
+SKU-1023,Personal Care Item 23,Personal Care,B,4179.68,5618.52,50
+SKU-1024,Water Purification Item 24,Water Purification,B,2535.42,4514.53,10
+SKU-1025,Cookware Item 25,Cookware,B,1993.58,2862.13,10
+SKU-1026,Kitchen Appliances Item 26,Kitchen Appliances,B,2805.68,5001.48,100
+SKU-1027,Home Comfort Item 27,Home Comfort,B,2625.05,3597.53,50
+SKU-1028,Personal Care Item 28,Personal Care,B,1077.59,1409.29,10
+SKU-1029,Water Purification Item 29,Water Purification,B,3566.2,4990.39,100
+SKU-1030,Cookware Item 30,Cookware,B,457.73,640.56,100
+SKU-1031,Kitchen Appliances Item 31,Kitchen Appliances,B,3388.93,5712.5,10
+SKU-1032,Home Comfort Item 32,Home Comfort,B,4197.83,6823.73,100
+SKU-1033,Personal Care Item 33,Personal Care,C,3938.72,6347.83,20
+SKU-1034,Water Purification Item 34,Water Purification,C,791.18,1175.23,20
+SKU-1035,Cookware Item 35,Cookware,C,1733.25,2885.52,100
+SKU-1036,Kitchen Appliances Item 36,Kitchen Appliances,C,1526.36,2412.6,50
+SKU-1037,Home Comfort Item 37,Home Comfort,C,890.34,1474.96,10
+SKU-1038,Personal Care Item 38,Personal Care,C,3359.09,4763.16,20
+SKU-1039,Water Purification Item 39,Water Purification,C,2424.56,3785.63,50
+SKU-1040,Cookware Item 40,Cookware,C,854.65,1298.78,50
+SKU-1041,Kitchen Appliances Item 41,Kitchen Appliances,C,528.86,855.8,100
+SKU-1042,Home Comfort Item 42,Home Comfort,C,2709.43,4464.49,10
+SKU-1043,Personal Care Item 43,Personal Care,C,1422.1,2140.53,50
+SKU-1044,Water Purification Item 44,Water Purification,C,1232.55,2183.37,50
+SKU-1045,Cookware Item 45,Cookware,C,1587.98,2192.38,20
+SKU-1046,Kitchen Appliances Item 46,Kitchen Appliances,C,2959.85,4285.32,10
+SKU-1047,Home Comfort Item 47,Home Comfort,C,3972.99,6761.38,100
+SKU-1048,Personal Care Item 48,Personal Care,C,2107.69,3670.84,100
+SKU-1049,Water Purification Item 49,Water Purification,C,3710.5,6486.12,50
+SKU-1050,Cookware Item 50,Cookware,C,4118.0,5913.72,50
+SKU-1051,Kitchen Appliances Item 51,Kitchen Appliances,C,2151.14,3676.31,10
+SKU-1052,Home Comfort Item 52,Home Comfort,C,1649.6,2280.29,50
+SKU-1053,Personal Care Item 53,Personal Care,C,2111.39,2979.29,50
+SKU-1054,Water Purification Item 54,Water Purification,C,1504.59,2139.62,50
+SKU-1055,Cookware Item 55,Cookware,C,1725.13,2690.16,10
+SKU-1056,Kitchen Appliances Item 56,Kitchen Appliances,C,2055.73,2739.15,20
+SKU-1057,Home Comfort Item 57,Home Comfort,C,4346.03,6196.97,20
+SKU-1058,Personal Care Item 58,Personal Care,C,3320.31,4562.25,100
+SKU-1059,Water Purification Item 59,Water Purification,C,551.24,884.62,20
+SKU-1060,Cookware Item 60,Cookware,C,2085.25,2745.28,100
