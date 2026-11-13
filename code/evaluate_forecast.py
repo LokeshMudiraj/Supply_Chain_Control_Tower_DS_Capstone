@@ -1,3 +1,4 @@
+from pathlib import Path
 import pandas as pd
 import numpy as np
 import warnings
@@ -7,7 +8,12 @@ warnings.filterwarnings("ignore")
 
 def evaluate_sarima_accuracy(test_steps=4):
     print("Loading demand data for evaluation...")
-    df_demand = pd.read_csv("../data/fact_demand_weekly.csv")
+    
+    # Resolve path dynamically relative to this script's location
+    script_dir = Path(__file__).resolve().parent
+    data_path = script_dir.parent / "data" / "fact_demand_weekly.csv"
+    
+    df_demand = pd.read_csv(data_path)
     df_demand["week"] = pd.to_datetime(df_demand["week"])
     
     # Pick a single representative SKU and Warehouse for instant evaluation
