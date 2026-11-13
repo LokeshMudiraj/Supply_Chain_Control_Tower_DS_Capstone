@@ -813,10 +813,10 @@ elif page == "Supplier Risk Analysis":
 
     sort_order = st.selectbox(
         "Rank suppliers by",
-        ["Highest Risk Score", "Lowest Risk Score"]
+        ["Highest Risk", "Lowest Risk"]
     )
 
-    ascending = sort_order == "Lowest Risk Score"
+    ascending = sort_order == "Highest Risk"
 
     ranked = df_sup_scores.sort_values(
         "composite_score",
